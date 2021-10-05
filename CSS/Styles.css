@@ -46,6 +46,15 @@ a {
 a:hover {
   color: #EAF6F6;
 }
+
+.nav {
+  background-color: red;
+  padding: 10px;
+  position: sticky;
+  top: 0;
+  color: blue;
+}
+
 .top-container {
   background-color: #F9F9F9;
   position: relative;
